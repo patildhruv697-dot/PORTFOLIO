@@ -18,10 +18,6 @@ The portfolio is divided into three main sections, designed with a clean, termin
     *   `$ ncet.result` ➔ Merit No. 1473
 *   **`./contact`**: Ways to reach out for conversations, collaborations, or just to talk about code.
 
-## 🛠️ Tech Stack
-*   **HTML5**
-*   **CSS3**
-*   **JavaScript** (if applicable for animations/interactions)
 
 ## 🚀 How to Run Locally
 Since this is a static website, running it locally is straightforward:
